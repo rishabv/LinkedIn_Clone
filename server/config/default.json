@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb://localhost:27017/socialApp",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"<your githubClientId>",
+    "githubSecret":"< your githubSecret>"
+}
